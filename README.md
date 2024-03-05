@@ -7,7 +7,7 @@ Pipline
 - Customize data to a structured view.
 - Text Representation from json.
 
-                                                                UI-Components-Detections/2
+**UI-Components-Detections/2**
 In this task, we used an object detection model that was trained on an image dataset specifically focused on detecting user interface (UI) components. We takes the path to an image file as input, employs the model to predict bounding boxes and labels for UI components within the image, and returns the detected components alongside their corresponding labels.This dataset contains images of various software interfaces, such as buttons, input fields, lists, menus, etc.
 
 ![image](https://github.com/Kimiko12/Hackathon_2024/assets/79062452/35120576-a50c-40c3-b727-0e14b3344913)
