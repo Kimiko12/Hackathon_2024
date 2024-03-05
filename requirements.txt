@@ -1,0 +1,11 @@
+roboflow
+supervision
+opencv-python
+pytesseract
+torch
+tqdm
+pandas
+numpy
+torchvision
+matplotlib
+gdown
